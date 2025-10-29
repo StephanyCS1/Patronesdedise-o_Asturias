@@ -289,16 +289,6 @@ restaurant-order-system/
 │   │           │       └── DigitalPaymentStrategy.java
 │   │           │
 │   │           └── Main.java
-│   │
-│   └── test/
-│       └── java/
-│           └── org/restaurante/pedidos/tests/
-│               ├── SingletonPatternTest.java
-│               ├── FactoryMethodPatternTest.java
-│               ├── BuilderPatternTest.java
-│               ├── ObserverPatternTest.java
-│               ├── StrategyPatternTest.java
-│               └── IntegrationTest.java
 │
 ├── pom.xml
 ├── README.md
