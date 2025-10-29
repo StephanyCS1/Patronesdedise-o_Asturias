@@ -218,13 +218,13 @@ Compilar el proyecto:
 
 ```bash
 mvn compile
-java -cp target/classes org.restaurante.pedidos.SistemaPedidosRestauranteApplication```
+java -cp target/classes org.restaurante.pedidos.SistemaPedidosRestauranteApplication
 
 O con Java directamente:
 
-```bash
 java -cp target/classes org.restaurante.pedidos.SistemaPedidosRestauranteApplication
 ```
+
 
 ### Salida Esperada
 
